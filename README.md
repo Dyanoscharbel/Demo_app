@@ -113,3 +113,9 @@ Un simulateur web est prêt avec des données factices pour démonstration de l�
    cd backend
    npm install
    npm run dev
+
+3. Frontend:
+   ```bash   
+   cd frontend
+   npm install
+   npm run dev
